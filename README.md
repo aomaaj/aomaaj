@@ -1,13 +1,7 @@
 ## Olá, me chamo João Mateus!
-- Interesse principal por Back-End!
-- Atualmente estudando Java.
+- Interesse principal por Desenvolvimento Mobile!
+- Atualmente estudando desenvolvimento de jogos.
 - Fun fact: Bazinga!
-
-![Zaguaizo's Stats](https://github-readme-stats.vercel.app/api?username=Zaguaizo&theme=radical&show_icons=true&hide_border=true&count_private=false) ![Zaguaizo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zaguaizo&theme=radical&hide_border=true)
-![Zaguaizo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaguaizo&theme=radical&show_icons=true&hide_border=true&layout=compact) <div>
-  <img align="right" alt="JM-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="right" alt="JM-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
 
  ##
 
